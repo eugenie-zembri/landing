@@ -1,0 +1,12 @@
+.btn-orange {
+	background: lightsalmon;
+	padding: 20px 25px;
+	border-radius: 5px;
+	color: whitesmoke;
+	font-weight: bolder;
+}
+
+.btn-orange:hover {
+	background: whitesmoke;
+	color: lightsalmon;
+}
